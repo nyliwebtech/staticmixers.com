@@ -250,9 +250,9 @@
 import appConfig from '~/app.config';
 
 useSeoMeta({
-  title: 'Industrial Applications for Ross High Shear Mixers',
-  description: 'High Shear Mixer designs are ideal for emulsification, homogenization, particle size reduction and dispersion',
-  ogImage: 'https://cms.mixers.com/assets/F9F0DE78-24AE-418B-8310-D40B1A93236C?width=1200&format=webp'
+  title: 'Static Mixers for Process Industry Applications',
+  description: 'Static and motionless - no moving parts inline continuous mixers for food, chemical, petrochemical, wastewater applications',
+  ogImage: 'https://cms.mixers.com/assets/A54D4CFE-789F-4197-8E12-DA556F850C89?height=700&format=webp'
 })
 </script>
 

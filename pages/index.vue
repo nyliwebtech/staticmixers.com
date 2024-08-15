@@ -139,9 +139,9 @@ import appConfig from '~/app.config';
 
 
 useSeoMeta({
-  title: 'Ross High Shear Mixers: Ross High Shear Mixer homogenizers are used for a wide range of Process Applications in the adhesive, cosmetic, pharmaceutical, food and chemical markets',
-  description: 'Ross designs and manufactures industrial high shear mixers, dispersers,  for the process industries. Our high shear batch and inline mixers, sanitary mixers and blenders, vacuum homogenizers and other industrial mixing equipment are used for liquid/solid – liquid/liquid and solid/solid mixing and blending applications in the adhesive, battery, chemical, cosmetic, electronics, food, pharmaceutical and plastic industries.',
-  ogImage: 'https://cms.mixers.com/assets/F9F0DE78-24AE-418B-8310-D40B1A93236C?width=1200&format=webp'
+  title: 'Static Mixers for Process Industry Applications',
+  description: 'Static and motionless - no moving parts inline continuous mixers for food, chemical, petrochemical, wastewater applications',
+  ogImage: 'https://cms.mixers.com/assets/A54D4CFE-789F-4197-8E12-DA556F850C89?height=700&format=webp'
 })
 
 const player = ref(null)
