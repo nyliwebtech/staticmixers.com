@@ -181,15 +181,16 @@ section.hero {
   width: 100%;
   top: 0;
   left: 0;
-  height: 630px;
+  height: 730px;
   overflow: hidden;
-  opacity: 0;
+  opacity: 0.5;
   transition: 0.3s all;
 }
 
 .player.playable {
-  opacity: 0.2;
+  /* opacity: 0.2; */
 }
+
 
 .player video {
   object-fit: cover;
