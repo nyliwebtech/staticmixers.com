@@ -181,7 +181,7 @@ section.hero {
   width: 100%;
   top: 0;
   left: 0;
-  height: 730px;
+  height: 630px;
   overflow: hidden;
   opacity: 0.5;
   transition: 0.3s all;
